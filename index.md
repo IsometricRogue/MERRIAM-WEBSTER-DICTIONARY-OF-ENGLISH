@@ -1,4 +1,4 @@
-## Fresh Sizzing Website
+## Fresh Sizzling Website
 
 [editor on GitHub](https://github.com/IsometricRogue/fresh-sizzling-website/edit/gh-pages/index.md)
 
