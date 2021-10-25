@@ -1,7 +1,8 @@
 ## Fresh Sizzling Website
 
 [editor on GitHub](https://github.com/IsometricRogue/fresh-sizzling-website/edit/gh-pages/index.md)
- ###[Projects](https://isometricrogue.github.io/fresh-sizzling-website/projects)
+
+ [Projects](https://isometricrogue.github.io/fresh-sizzling-website/projects)
 
 ### Testing styles
 ```markdown
