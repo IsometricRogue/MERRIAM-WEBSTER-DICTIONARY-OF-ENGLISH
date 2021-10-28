@@ -1,8 +1,10 @@
-## Fresh Sizzling Website
+## Magpie Collection of What I'm Thinking About
 
-[editor on GitHub](https://github.com/IsometricRogue/fresh-sizzling-website/edit/gh-pages/index.md)
+[editor on GitHub](https://github.com/IsometricRogue/projects/edit/gh-pages/index.md)
 
- [Projects](https://isometricrogue.github.io/fresh-sizzling-website/projects)
+ [Projects](https://isometricrogue.github.io/projects/projects)
+ 
+ [Instrument Making as a Hobby](https://isometricrogue.github.io/projects/music)
 
 ### Testing styles
 ```markdown
