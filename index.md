@@ -2,9 +2,11 @@
 
 [editor on GitHub](https://github.com/IsometricRogue/projects/edit/gh-pages/index.md)
 
- [Projects](https://isometricrogue.github.io/projects/projects)
+[Official Dictionary of The English Language](https://isometricrogue.github.io/projects/projects)
+
+ [Projec(https://isometricrogue.github.io/projects/projects)
  
- [Instrument Making as a Hobby](https://isometricrogue.github.io/projects/music)
+ [Instrument Making as a Hob(https://isometricrogue.github.io/projects/music)
 
 ### Testing styles
 ```markdown
