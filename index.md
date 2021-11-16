@@ -1,8 +1,8 @@
-## Magpie Collection of What I'm Thinking About
+##Merriam-Webster Dictionary of English
 
 [editor on GitHub](https://github.com/IsometricRogue/projects/edit/gh-pages/index.md)
 
-[Official Dictionary of The English Language](https://isometricrogue.github.io/projects/projects)
+[Official Dictionary of The English Language Search Function](https://isometricrogue.github.io/projects/projects)
 
  [Projec(https://isometricrogue.github.io/projects/projects)
  
